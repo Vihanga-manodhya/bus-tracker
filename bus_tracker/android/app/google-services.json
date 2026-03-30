@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992288289317",
+    "project_id": "gpstag-3cce5",
+    "storage_bucket": "gpstag-3cce5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992288289317:android:d501cf05032423e16745cc",
+        "android_client_info": {
+          "package_name": "com.example.bus_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRuTq2MvHMCv3cZRK-jw_NBeWFyrls8Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
