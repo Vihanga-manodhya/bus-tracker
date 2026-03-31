@@ -10,7 +10,10 @@ plugins {
 
 android {
     namespace = "com.example.bus_tracker"
-    compileSdk = flutter.compileSdkVersion
+    
+    // --- CHANGED THIS LINE TO 34 ---
+    compileSdk = 34 
+    
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
@@ -27,7 +30,10 @@ android {
         applicationId = "com.example.bus_tracker"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
-        minSdk = flutter.minSdkVersion
+        
+        // --- CHANGED THIS LINE TO 21 ---
+        minSdk = flutter.minSdkVersion 
+        
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
